@@ -5,8 +5,6 @@ Detecting fraudulent online transactions using machine learning with the IEEE-CI
 This project is a capstone submission for the IEEE-CIS Fraud Detection competition on Kaggle. The objective is to build a machine learning model to identify fraudulent online transactions based on a large, real-world e-commerce dataset provided by Vesta Corporation.
 
 **Team Members:**
-- Bharadwaja Addanki
-- Mohammed Hassan Ahmed
 - Swagath Banda
 - Vijay Kumar Vemana
 
@@ -37,7 +35,7 @@ The core of this project involves:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ieee-fraud-detection-capstone.git](https://github.com/YOUR_USERNAME/ieee-fraud-detection-capstone.git)
+    git clone [https://github.com/swagathbanda/Fraud-Detection-using-Machine-Learning.git](https://github.com/swagathbanda/Fraud-Detection-using-Machine-Learning.git)
     ```
 2.  **Download the Data:**
     The data for this project is from the [IEEE-CIS Fraud Detection Kaggle Competition](https://www.kaggle.com/c/ieee-fraud-detection/data). You will need to download it from Kaggle and place the `.csv` files in a `data/` subfolder.
